@@ -4,8 +4,12 @@ Make sure you copy your API key and paste it to ```gradle.properties``` file and
 
 Below I have shown screenshots of my app.
 
+<hr>
+
 ## Main Screen:
-![alt text](https://github.com/anikkcah/ImageblobsforReadme/blob/master/part2_main_screen.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/part2_main_screen.jpg" width="300" height="600" vspace="30">
+
+<hr>
 
 ## Details Screen:
-![alt text](https://github.com/anikkcah/ImageblobsforReadme/blob/master/part2_details_screen.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/part2_details_screen.jpg" width="300" height="600">
