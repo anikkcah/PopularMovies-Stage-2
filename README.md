@@ -7,7 +7,7 @@ Below I have shown screenshots of my app.
 <hr>
 
 ## Main Screen:
-<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/part2_main_screen.jpg" width="300" height="600" vspace="30">
+<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/part2_main_screen.jpg" width="300" height="600">
 
 <hr>
 
